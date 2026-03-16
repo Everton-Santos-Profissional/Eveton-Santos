@@ -3,37 +3,35 @@
 🎓 Técnico em Eletroeletrônica
 🎓 Tecnólogo em Automação Industrial
 
-Sou apaixonado por **tecnologia, eletrônica e sistemas embarcados**, com interesse especial em desenvolvimento de hardware, FPGA e programação de baixo nível.
+Sou apaixonado por **tecnologia, eletrônica , sistemas embarcados , impressão 3D e microcontroladores**, com interesse especial em desenvolvimento de hardware, FPGA e programação de baixo nível.
 
 ---
 
 ## 🚀 Áreas de Interesse
 
 * 🔌 Eletrônica digital
-* ⚡ FPGA / HDL (VHDL / Verilog)
-* 📺 Interfaces de vídeo (HDMI, VGA, etc.)
-* 🤖 Sistemas embarcados
-* 🧠 Engenharia reversa e segurança de hardware
-* 📡 IoT
+* 🔌 Eletrônica analogica
+* ⚡ FPGA (VHDL / Verilog)
+* 📺 Interfaces de vídeo (SPI e I2C)
+* 🤖 Sistemas embarcados (Microcontroladores)
+* 📡 Internet of Things
 
 ---
 
 ## 🛠️ Tecnologias que utilizo
 
-* **HDL:** VHDL, Verilog
-* **Microcontroladores:** ESP32 / Arduino
+* **FPGA:** Tang Nano 9k
+* **Microcontroladores:** ESP32 / Arduino / STM32
 * **Frameworks:** ESP-IDF
-* **Ferramentas:** VS Code, Git
+* **Ferramentas:** VS Code, Git , Arduino IDE
 * **Hardware:** FPGA, sistemas embarcados
 
 ---
 
 ## 📂 Projetos em destaque
 
-🔹 Implementações em **FPGA**
-🔹 Experimentos com **interfaces de vídeo digital (HDMI/VGA)**
-🔹 Projetos com **ESP32 utilizando ESP-IDF**
-🔹 Estudos e experimentos em **eletrônica digital**
+🔹 Implementações em **FPGA** de interface hdmi
+🔹 Projetos com **ESP32 , ATMEGA328P , STM32** utilizando perifericos.
 
 ---
 
@@ -42,7 +40,6 @@ Sou apaixonado por **tecnologia, eletrônica e sistemas embarcados**, com intere
 * Arquiteturas de FPGA
 * Protocolos de vídeo digital
 * Desenvolvimento de firmware embarcado
-* Segurança em hardware
 
 ---
 
