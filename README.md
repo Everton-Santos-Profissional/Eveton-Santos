@@ -1,8 +1,55 @@
-<h1 align="center">Meus Projetos Microcontroladores</h1>
-<h2 align="center">- ARDUINO (ATMEGA328P)</h2>
-<h2 align="center">- ESP32</h2>
-<h2 align="center">- ESP8266</h2>
-<h2 align="center">- STM32</h2>
-<p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
-</p>
+# 👋 Olá, eu sou Everton Gustavo
+
+🎓 Técnico em Eletroeletrônica
+🎓 Tecnólogo em Automação Industrial
+
+Sou apaixonado por **tecnologia, eletrônica e sistemas embarcados**, com interesse especial em desenvolvimento de hardware, FPGA e programação de baixo nível.
+
+---
+
+## 🚀 Áreas de Interesse
+
+* 🔌 Eletrônica digital
+* ⚡ FPGA / HDL (VHDL / Verilog)
+* 📺 Interfaces de vídeo (HDMI, VGA, etc.)
+* 🤖 Sistemas embarcados
+* 🧠 Engenharia reversa e segurança de hardware
+* 📡 IoT
+
+---
+
+## 🛠️ Tecnologias que utilizo
+
+* **HDL:** VHDL, Verilog
+* **Microcontroladores:** ESP32 / Arduino
+* **Frameworks:** ESP-IDF
+* **Ferramentas:** VS Code, Git
+* **Hardware:** FPGA, sistemas embarcados
+
+---
+
+## 📂 Projetos em destaque
+
+🔹 Implementações em **FPGA**
+🔹 Experimentos com **interfaces de vídeo digital (HDMI/VGA)**
+🔹 Projetos com **ESP32 utilizando ESP-IDF**
+🔹 Estudos e experimentos em **eletrônica digital**
+
+---
+
+## 📚 Atualmente estudando
+
+* Arquiteturas de FPGA
+* Protocolos de vídeo digital
+* Desenvolvimento de firmware embarcado
+* Segurança em hardware
+
+---
+
+## 📫 Contato
+
+📧 Você pode entrar em contato comigo através do GitHub.
+
+---
+
+⭐ Sempre explorando novas tecnologias e aprendendo algo novo!
